@@ -1,0 +1,90 @@
+﻿
+
+An abjad is a type of writing system where each symbol always or usually stands for a consonant, leaving the reader to supply the appropriate vowel.
+It is a term suggested by Peter T. Daniels to replace the common terms "consonantary", "consonantal alphabet" or "syllabary" to refer to the family of scripts called West Semitic.
+
+Abjad is thought to be based on the first letters (a, b, g, d) found in all Semitic language such as Phoenician, Syriac, Hebrew, and Arabic. In Arabic, "A" (), "B" (), "" (), "D" () make the word "abjad" which means "alphabet". The modern Arabic word for "alphabet" and "abjad" is interchangeably either "" or "". The word "alphabet" in English has a source in Greek language in which the first two letters were "A" (alpha) and "B" (beta), hence "alphabeta" (in Spanish and Italian, "alfabeto", but also called "abecedario", from "a" "b" "c" "d"). In Hebrew the first two letters are "A" (aleph), "B" (bet) hence "alephbet." It is also used to enumerate a list in the same manner that "a, b, c, d" (etc.) are used in the English language.
+
+==Etymology==
+The name "abjad" ( ) is derived from pronouncing the first letters of the Arabic alphabet in order. The ordering () of Arabic letters used to match that of the older Hebrew, Phoenician and Semitic alphabets; (read from right to left: ) or .
+
+The word is also used as a synonym for alphabet in Malay as Malay has many loanwords from Arabic.
+
+==Terminology==
+According to the formulations of Daniels, abjads differ from alphabets in that only consonants, not vowels, are represented among the basic graphemes. Abjads differ from abugidas, another category invented by Daniels, in that in abjads, the vowel sound is implied by phonology, and where vowel marks exist for the system, such as nikkud for Hebrew and ḥarakāt for Arabic, their use is optional and not the dominant (or literate) form. Abugidas mark the vowels (other than the "inherent" vowel) with a diacritic, a minor attachment to the letter, or a standalone glyph. Some abugidas use a special symbol to suppress the inherent vowel so that the consonant alone can be properly represented. In a syllabary, a grapheme denotes a complete syllable, that is, either a lone vowel sound or a combination of a vowel sound with one or more consonant sounds.
+
+The antagonism of abjad versus alphabet, as it was formulated by Daniels, has been rejected by other scholars because abjad is also used as a term not only for the Arabic numeral system but, which is most important in terms of historical grammatology, als as term for the alphabetic device (i.e. letter order) of ancient Northwest Semitic scripts in opposition to the 'south Arabian‘ order. This caused fatal effects on terminology in general and especially in (ancient) Semitic philology. Also, it suggests that consonantal alphabets, in opposition to for instance the Greek alphabet, were not yet true alphabets and not yet entirely complete, lacking something important to be a fully working script system. It has also been objected that, as a set of letters, an alphabet is not the mirror of what should be there in a language from a phonemic or even phonological point of view, rather, it is the data stock of what provides maximum efficiency with least effort from a semantic point of view.
+ Reinhard G. Lehmann: "27-30-22-26. How Many Letters Needs an Alphabet? The Case of Semitic", in: The idea of writing: Writing across borders / edited by Alex de Voogt and Joachim Friedrich Quack, Leiden: Brill 2012, p. 11-52, esp. p. 22-27 
+
+==Values table==
+The Abjad gadol (see below) values are:
+
+ Decimal Hebrew Glyph 1 Aleph 2 Bet 3 Gimel 4 Daled 5 He 6 Vav 7 Zayin 8 Heth 9 Teth 
+
+ Decimal Hebrew Glyph 10 Yud 20 Kaph 30 Lamed 40 Mem 50 Nun 60 Samech 70 Ayin 80 Pe 90 Tsade 
+
+ Decimal Hebrew Glyph 100 Qoph 200 Reish 300 Shin 400 Taw 500 Kaph (final) 600 Mem (final) 700 Nun (final) 800 Pe (final) 900 Tsade (final) 
+
+==Origins==
+A specimen of Proto-Sinaitic script containing a phrase which may mean 'to Baalat'. The line running from the upper left to lower right reads mt l bclt.
+
+All known abjads belong to the Semitic family of scripts. These scripts are thought to derive from the Proto-Sinaitic alphabet (dated to about 1500 BC), which is thought to derive from Egyptian hieroglyphs. The abjad was significantly simpler than the earlier hieroglyphs. The number of distinct glyphs was reduced tremendously at the cost of increased ambiguity.
+
+The first abjad to gain widespread usage was the Phoenician abjad. Unlike other contemporary scripts, such as Cuneiform and Egyptian hieroglyphs, the Phoenician script consisted of only about two dozen symbols. This made the script easy to learn, and Phoenician seafaring merchants took the script wherever they went. Phoenician gave way to a number of new writing systems, including the Greek alphabet and Aramaic, a widely used abjad. The Greek alphabet evolved into the modern western alphabets, such as Latin and Cyrillic, while Aramaic became the ancestor of many modern abjads and abugidas of Asia.
+
+Aramaic spread across Asia, reaching as far as India and may become Brahmi, the ancestral abugida to most modern Indian and Southeast Asian scripts. In the Middle East, Aramaic gave rise to the Hebrew and Nabataean abjads, which retained many of the Aramaic letter forms. The Syriac script was a cursive variation of Aramaic. It is unclear whether the Arabic abjad was derived from Nabatean or Syriac.
+
+==Impure abjads==
+"Al-'Arabiyya", lit. "Arabic." An example of the Arabic script, which is an impure abjad.
+
+"Impure" abjads have characters for some vowels, optional vowel diacritics, or both. The term "pure" abjad refers to scripts entirely lacking in vowel indicators. However, most modern abjads, such as Arabic, Hebrew, Aramaic and Avestan, are "impure" abjads, that is, they also contain symbols for some of the vowel phonemes. An example of a "pure" abjad is ancient Phoenician.
+
+===Addition of vowels===
+
+In the 9th century BC, the Greeks adapted the Phoenician script for use in their own language. The phonetic structure of the Greek language created too many ambiguities when the vowels went unrepresented, so the script was modified. They did not need letters for the guttural sounds represented by aleph, he, heth or ayin, so these symbols were assigned vocalic values. The letters waw and yod were also used. The Greek alphabet thus became the world's first to have symbols representing vowel sounds.
+
+Abugidas developed along a slightly different route. The basic consonantal symbol was considered to have an inherent "a" vowel sound. Hooks or short lines attached to various parts of the basic letter modify the vowel. In this way, the South Arabian alphabet evolved into the Ge'ez alphabet between the 5th century BC and the 5th century AD. Similarly, around the 3rd century BC, the Brāhmī script developed (from the Aramaic abjad, it has been hypothesized).
+
+The other major family of abugidas, Canadian Aboriginal syllabics, was initially developed in the 1840s by missionary and linguist James Evans for the Cree and Ojibwe languages. Evans used features of Devanagari script and Pitman shorthand to create his initial abugida. Later in the 19th century, other missionaries adapted Evans' system to other Canadian aboriginal languages. Canadian syllabics differ from other abugidas in that the vowel is indicated by rotation of the consonantal symbol, with each vowel having a consistent orientation.
+
+==Abjads and the structure of Semitic languages==
+The abjad form of writing is well-adapted to the morphological structure of the Semitic languages it was developed to write. This is because words in Semitic languages are formed from a root consisting of (usually) three consonants, the vowels being used to indicate inflectional or derived forms. For instance, according to Classical Arabic and Modern Standard Arabic, the Arabic root (to sacrifice) can be derived the forms (he sacrificed), (you (masculine singular) sacrificed), (he slaughtered), (he slaughters), and (slaughterhouse). In each case, the absence of full glyphs for vowels makes the common root clearer, improving word recognition while reading.
+
+==Comparative chart of Abjads, extinct and extant==
+
+ ID Name In use Cursive Direction # of letters Area of origin Used by Languages Time period (age) Influenced by Writing systems influenced 
+ 1 Syriac yes yes right-left 22 consonants Middle-East Syrian Church Aramaic, Syriac, Assyrian Neo-Aramaic ~ 700 BCE , http://www.omniglot.com/writing/alphabetic.htm. Nabatean, Palmyran, Mandaic, Parthian, Pahlavi, Sogdian, Avestan and Manichean 
+ 2 Hebrew yes no right-left 22 consonants + 5 final letters Middle-East Israelis, Some Jewish diaspora communities, Ancient Hebrew Tribes Hebrew, Ladino, Bukhari, Yiddish, Judeo-Arabic > 1100 BCE Proto-Hebrew, Early Aramaic 
+ 3 Arabic yes yes right-left 28 Middle-East and North Africa Over 200 million people Arabic, Bosnian, Kashmiri, Kurdish, Kyrghyz, Malay, Persian/Farsi, Pashto, Balochi, Turkish, Urdu, Uyghur, others ~ 500 CE Nabataean Aramaic 
+ 4 Aramaic (Imperial) no no right-left 22 Middle-East Archaemenid, Persian, Babylonian, and Assyrian empires Imperial Aramaic, Hebrew ~ 500 BCE Phoenician Late Hebrew, Nabataean, Syriac 
+ 5 Aramaic (Early) no no right-left 22 Middle-East Various Semitic Peoples ~ 1000-900 BCE Phoenician Hebrew, Imperial Aramaic. 
+ 6 Ancient Berber no no top-bottom, right-left 22 (right-left) 25 (up-down) , http://www.ancientscripts.com/berber.html. North Africa Women in Tuareg Society Tifinagh 600 BCE Punic, South Arabian Tifinagh 
+ 7 Nabataean no no right-left 22 Middle-East Nabataean Kingdom Nabataean 200 BCE Aramaic Arabic 
+ 8 Middle Persian, (Pahlavi) no no right-left 22 Middle-East Sassanian Empire Pahlavi, Middle Persian Aramaic Psalter, Avestan 
+ 9 Mandaic no yes right-left 24 Iraq, Iran Ahvāz, Iran Mandaic ~ 200 CE Aramaic Neo-Mandaic 
+ 10 Psalter no yes right-left 21 Northwestern China Persian Script for Paper Writing ~ 400 CE , Encyclopædia Iranica. Syriac 
+ 11 Phoenician no no right-left, Boustrophedon 22 Byblos Canaanites Phoenician, Punic ~ 1000-1500 BCE Proto- Canaanite Alphabet Punic(variant), Greek, Etruscan, Latin, Arabic, and Hebrew 
+ 12 Parthian no no right-left 22 Parthia (modern-day equivalent of Northeastern Iran) Parthian & Sassanian periods of Persian Empire Parthian ~200 BCE Aramaic 
+ 13 Sabaean no no system right-left, boustrophedon 29 Southern Arabia (Sheba) Southern Arabians Sabaean ~ 500 BCE Byblos Ethiopic (Eritrea & Ethiopia) 
+ 14 Punic no no right-left 22 Carthage (Tunisia), North Africa, Mediterranean Punic Culture Punic, Neo-Punic Phoenician 
+ 15 Proto-Sinaitic, Proto-Canaanite no no left-right 30 Egypt, Sinai, Canaan Canaanites Canaanite ~ 1900-1700 BCE In conjunction with Egyptian Hieroglyphs Phoenician, Hebrew 
+ 16 Ugaritic no yes left-right 30 Ugarit (modern-day Northern Syria) Ugarites Ugaritic, Hurrian ~ 1400 BCE 
+ 17 South Arabian yes (Zabūr - cursive form of the South Arabian script) no right-left, left-right (reversed letters) 29 South-Arabia (Yemen) D'mt Kingdom Amharic, Tigrinya, Tigre, Semitic, Chushitic, Nilo-Saharan 900 BCE Proto-Sinaitic Ge'ez ((Ethiopia)(Eritrea)) 
+ 18 Sogdian no no (yes in later versions) right-left, left-right(vertical) 20 parts of China (Xinjiang), Uzbekistan, Tajikistan, Pakistan Buddhists, Manichaens Sogdian ~ 400 CE Syriac Old Uyghur alphabet, Yaqnabi (Tajikistan dialect) 
+ 19 Samaritan yes (700 people) no right-left 22 Mesopatamia or Levant (Disputed) Samaritans (Nablus and Holon) Samaritan Aramaic, Samaritan Hebrew ~ 100-0 BCE Paleo-Hebrew Alphabet 
+
+==See also==
+* Abjad numerals
+* Abugida
+* Gematria (Hebrew system of mystical numerology)
+* Numerology
+* Shorthand (constructed writing systems that are structurally abjads)
+
+==References==
+
+; Sources
+* 
+
+ 
+
+

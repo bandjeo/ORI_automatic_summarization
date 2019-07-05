@@ -1,0 +1,53 @@
+﻿
+
+Allioideae is a subfamily of monocot flowering plants in the family Amaryllidaceae, order Asparagales. It was formerly treated as a separate family, Alliaceae. The subfamily name is derived from the generic name of the type genus, Allium.
+
+Successive revisions of the influential Angiosperm Phylogeny Group (APG) classification have changed the circumscription of the family. In the 1998 version, Alliaceae were a distinct family; in the 2003 version, combining the Alliaceae with the Agapanthaceae and the Amaryllidaceae sensu stricto was recommended but optional; in the 2009 version, only the broad circumscription of the Amaryllidaceae is allowed, with the Alliaceae reduced to a subfamily, Allioideae. 
+
+Note that quite a few of the plants that were once included in family Alliaceae have been assigned to the subfamily Brodiaeoideae (rather than the subfamily Allioideae). 
+
+Some of the species of Allium are important food plants for example onions (Allium cepa), chives (A. schoenoprasum), garlic (A. sativum and A. scordoprasum), and leeks (A. porrum). Species of Allium, Gilliesia, Ipheion, Leucocoryne, Nothoscordum, and Tulbaghia are cultivated as ornamentals. Anthony Huxley, Mark Griffiths, and Margot Levy (1992). The New Royal Horticultural Society Dictionary of Gardening. The Macmillan Press,Limited: London. The Stockton Press: New York. ISBN 978-0-333-47494-5 (set). 
+
+Thirteen of the total of about 20 genera are endemic to temperate South America. Knud Rahn. 1998. "Alliaceae" pages 70-78. In: Klaus Kubitzki (general editor) with Klaus Kubitzki, Herbert F.J. Huber, Paula J. Rudall, Peter F. Stevens, and Thomas Stützel (volume editors). The Families and Genera of Vascular Plants volume III. Springer-Verlag: Berlin;Heidelberg, Germany. ISBN 978-3-540-64060-8 Nothoscordum ranges from Argentina to Canada. Allium is indigenous to most of North America, Eurasia, and North Africa. 
+
+The largest genera are Allium (260-690 species), Nothoscordum (25), and Tulbaghia (22). Some of the generic limits are not clear. Ipheion, Nothoscordum, and possibly others are not monophyletic. Michael F. Fay, Paula J. Rudall, and Mark W. Chase. 2006. "Molecular studies of subfamily Gilliesioideae (Alliaceae)". Aliso 22(Monocots: Comparative Biology and Evolution):367-371. ISSN 0065-6275. 
+
+Allioideae is divided into three tribes: Allieae, Tulbaghieae, and Gilliesieae. Allieae contains only one genus Allium (Milula is merged with Allium in the latest systems). Tulbaghieae contains only Tulbaghia. Gilliesieae contains the remaining genera. Allieae is sister to a clade composed of Tulbaghia and Gilliesieae. J. Chris Pires, Ivan J. Maureira, Thomas J. Givnish, Kenneth J. Sytsma, Ole Seberg, Gitte Petersen, Jerrold I. Davis, Dennis W. Stevenson, Paula J. Rudall, Michael F. Fay, and Mark W. Chase. 2006. "Phylogeny, genome size, and chromosome evolution of Asparagales". Aliso 22(Monocots: Comparative Biology and Evolution):287-304. ISSN 0065-6275. 
+
+==Genera==
+, the following genera are included in the Allioideae:
+
+ *Allium L. *Ancrumia Harv. ex Baker * Caloscordum Herb. *Erinna Phil. * Garaventia Looser *Gethyum Phil. *Gilliesia Lindl. *Ipheion Rafinesque *Latace Phil. *Leucocoryne Lindl. *Miersia Lindl. *Milula Prain *Muilla S.Watson ex Bentham *Nothoscordum Kunth. *Prototulbaghia Vosa *Schickendantziella Looser *Solaria Phil. *Speea Loes. *Trichlora Baker *Tristagma Poepp. *Tulbaghia L. 
+
+The genera Androstephium, Bessera, Bloomeria, Brodiaea, Dandya, Dichelostemma, Jaimehintonia, Milla, Muilla, Petronymphe, Triteleia, and Triteleiopsis are now treated in the family Themidaceae. Petronymphe is back in Themidaceae after spending a few years in Anthericaceae (now a segregate of Agavaceae). 
+
+==History==
+In 1985, Dahlgren, Clifford, and Yeo defined their Alliaceae to include all of the genera that are now there, plus Agapanthus and a group of genera that are now placed in Themidaceae, or its equivalent, the subfamily Brodiaeoideae of Asparagaceae. Rolf M.T. Dahlgren, H. Trevor Clifford, and Peter F. Yeo. 1985. The Families of the Monocotyledons. Springer-Verlag: Berlin, Heidelberg, New York, Tokyo. ISBN 978-3-540-13655-2. ISBN 978-0-387-13655-4. They divided Alliaceae into three subfamilies: Agapanthoideae, Allioideae, and Gilliesioideae. Agapanthoideae consisted of Agapanthus and Tulbaghia. Allioideae contained two tribes: Brodiaeeae and a broadly defined Allieae. Gilliesioideae was composed of about half of the genera now placed in Gilliesieae, the rest being assigned to Allieae.
+
+In 1996, a molecular phylogenetic study of the rbcL gene showed that Agapanthus was misplaced in Alliaceae, and the authors excluded it from the family. Michael F. Fay and Mark W. Chase. 1996. "Resurrection of Themidaceae for the Brodiaea alliance, and recircumscription of Alliaceae, Amaryllidaceae, and Agapanthoideae". Taxon 45(3):441-451. (see External links below). They also raised Brodiaeeae to family rank as Themidaceae. They reduced the tribe Allieae to two genera, Allium and Milula, and transferred the rest of Allieae to Gilliesieae. This is the circumscription which the Angiosperm Phylogeny Group accepted in the APG classification of 1998 and which later became known as Alliaceae sensu stricto.
+
+In the APG II system of 2003, Alliaceae could be recognized sensu stricto or sensu lato, as mentioned above. Soon after the publication of APG II, the ICBN conserved the name Amaryllidaceae for the family that had been called Alliaceae sensu lato in APG II.
+
+When the APG III system was published in 2009, the alternative circumscriptions were discontinued and Alliaceae was no longer recognized. Alliaceae sensu stricto became the subfamily Allioideae of Amaryllidaceae sensu lato. Some botanists have not strictly followed the Angiosperm Phylogeny Group and have recognized the smaller version of Alliaceae at family rank. Armen L. Takhtajan (Takhtadzhian). Flowering Plants second edition (2009). Springer Science+Business Media. ISBN 978-1-4020-9608-2. 
+
+==See also==
+*Ramsons
+
+==Notes==
+
+==References==
+
+==External links==
+
+*Alliaceae in Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 7, May 2006.
+* Resurrection of Themidaceae
+* Alliaceae lato in L. Watson and M.J. Dallwitz (1992 onwards). The families of flowering plants
+* Liliaceae in Flora of North America
+* NCBI Taxonomy Browser sensu stricto
+* links at CSDL, Texas
+* Alliaceae of Mongolia in FloraGREIF
+
+ 
+
+
+

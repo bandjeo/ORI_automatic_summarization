@@ -1,0 +1,23 @@
+﻿
+
+Arecales is an order of flowering plants. The order has been widely recognised only for the past few decades; until then, the accepted name for the order including these plants was Principes. 
+
+The APG II system of 2003 recognises the order and places it in the clade commelinids in the monocots and uses this circumscription:
+
+* order Arecales
+*: family Arecaceae, alternative name Palmae
+
+This is unchanged from the APG system of 1998, although it used the spelling "commelinoids" instead of commelinids.
+
+The Cronquist system of 1981 made the same choices at the rank of family and order, but assigned the order to the subclass Arecidae in the class Liliopsida (= monocotyledons).
+
+The Thorne system (1992) and the Dahlgren system had made the same choices at the rank of family and order, but assigned the order to the superorder Arecanae in the subclass Liliidae (= monocotyledons).
+
+==External links==
+
+* NCBI Taxonomy Browser
+
+ 
+
+
+

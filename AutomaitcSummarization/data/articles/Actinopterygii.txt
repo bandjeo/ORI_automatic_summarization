@@ -1,0 +1,122 @@
+﻿
+
+The Actinopterygii , or ray-finned fishes, constitute a class or subclass of the bony fishes. 
+
+The ray-finned fishes are so called because they possess lepidotrichia or "fin rays", their fins being webs of skin supported by bony or horny spines ("rays"), as opposed to the fleshy, lobed fins that characterize the class Sarcopterygii which also, however, possess lepidotrichia. These actinopterygian fin rays attach directly to the proximal or basal skeletal elements, the radials, which represent the link or connection between these fins and the internal skeleton (e.g., pelvic and pectoral girdles). 
+
+In terms of numbers, actinopterygians are the dominant class of vertebrates, comprising nearly 99% of the over 30,000 species of fish. (Davis, Brian 2010). They are ubiquitous throughout freshwater and marine environments from the deep sea to the highest mountain streams. Extant species can range in size from Paedocypris, at 8 mm, to the massive ocean sunfish, at 2300 kg, and the long-bodied oarfish, at 11 m.
+
+==Characteristics==
+
+A - dorsal fin: B - fin rays: C - lateral line: D - kidney: E - swim bladder: F - Weberian apparatus: G - inner ear: H - brain: I - nostrils: L - eye: M - gills: N - heart O - stomach: P - gall bladder: Q - spleen: R - internal sex organs (ovaries or testes): S - ventral fins: T - spine: U - anal fin: V - tail (caudal fin). Possible other parts not shown: barbels, adipose fin, external genitalia (gonopodium)
+
+Ray-finned fishes occur in many variant forms. The main features of a typical ray-finned fish are shown in the diagram at the left.
+
+ Fin arrangements 
+ Ray-finned fish are varied in size, shape and the arrangement and number of their ray-fins. See fish fin. File:Bluefin-big.jpg|Tuna are streamlined for straight line speed with a deeply forked tail File:Xiphias gladius1.jpg|The swordfish is even faster and more streamlined than the tuna File:Salmo salar GLERL 1.jpg|Salmon generate enough thrust with their powerful tail fin to jump obstacles during river migrations File:Atlantic cod.jpg|Cod have three dorsal and two anal fins, which give them great maneuverability File:Bluecat5A.jpg|Catfish File:Ancylopsetta dilecta 2.jpg|Flatfish have developed partially symmetric dorsal and pelvic fins File:Sturgeon2.jpg|Sturgeon File:Diaphus metopoclampus.jpg|Lanternfish File:Gonostoma elongatum.jpg|Elongated bristlemouth File:Anoplogaster cornuta 2.jpg|Fangtooth are indifferent swimmer who try and ambush their prey File:Melanocetus johnsonii.jpg|The first spine of the dorsal fin of anglerfish is modified like a fishing rod with a lure File:Beryx decadactylus.jpg|Alfonsino trying to get out of this gallery File:King of herrings.png|King of herrings File:Drawing of Lepidopus caudatus from The Royal Natural History (1896).jpg|Cutlassfish File:Conger conger Gervais.jpg|European conger are ray-finned fish File:Sea Horse 1 PSF S-820006.png| So are sea horses File:Betta fish white.jpg|White Siamese fighting fish File:Mirror dory.png|Mirror dory File:Lion Fish.JPG|The venomous lion fish File:Tiger fish in tank.JPG|Tiger fish 
+
+==Fossil record==
+right
+
+The earliest known fossil actinopterygiian is Andreolepis hedei, dating back 420 million years (Late Silurian). Remains have been found in Russia, Sweden, and Estonia. Palaeobase 
+
+==Classification==
+Traditionally actinopterygians have been divided into the subclasses Chondrostei and Neopterygii. Neopterygii, in turn, have been divided into the infraclasses Holostei and Teleostei. Some morphological evidence suggests the Neopterygii is paraphyletic; however, recent work, based on taxon orders, is arranged in what has been suggested to represent the evolutionary sequence down to the level of order, based primarily on the long history of morphological studies. This classification, like any other taxonomy based on phylogenetic research, has been in a state of flux. Recent morphological and molecular data have shown several of these ordinal and higher-level groupings represent evolutionary grades rather than clades. Examples of demonstrably paraphyletic groups include the Paracanthopterygii, Scorpaeniformes, and Perciformes. Studies of the nonteleostean actinopterygians shows that polypterids (bichirs and ropefish) are the sister lineage of all other actinopterygians (Actinopteri), Acipenseriformes (sturgeons and paddlefishes) are the sister lineage of Neopterygii, and Holostei (bowfin and gars) are the sister lineage of teleosts. The Elopomorpha (eels and tarpons) appears to be the most basic teleosts. Resolution of ray-finned fish phylogeny and timing of diversification 
+
+ Chondrostei 140pxAtlantic sturgeon Chondrostei (cartilage bone) are primarily cartilaginous fish showing some ossification. There are 52 species divided among two orders, the Acipenseriformes (sturgeons (pictured) and paddlefishes) and the Polypteriformes (reedfishes and bichirs). It is thought that the ancestors of the chondrosteans were bony fish but that this characteristic was lost in later evolutionary development, resulting in a lightening of the frame. Elderly chondrosteans show beginnings of ossification of the skeleton which suggests that this process is delayed rather than lost in these fish. This group has at times been classified with the sharks: the similarities are obvious, not only do the chondrosteans mostly lack bone, the structure of the jaw is more akin to that of sharks than other bony fish, and both lack scales (excluding the Polypteriforms). Additional shared features include spiracles and, in sturgeons, a heterocercal tail (the vertebrae extend into the larger lobe of the caudal fin). However the fossil record suggests that these fish have more in common with the Teleostei than their external appearance might suggest. Chondrostei is paraphyletic meaning that this subclass does not contain all the descendants of their common ancestor; reclassification of the Chondrostei is therefore not out of the question. 
+ Neopterygii 140pxAtlantic salmon Neopterygii (new fins) appeared somewhere in the Late Permian, before the time of the dinosaurs. There are only few changes during their evolution from the earlier actinopterygians. They are a very successful group of fishes, because they can move more rapidly than their ancestors. Their scales and skeletons began to lighten during their evolution, and their jaws became more powerful and efficient. While electroreception and the ampullae of Lorenzini is present in all other groups of fish, with the exception of hagfish, Neopterygii has lost this sense, though it later re-evolved within Gymnotiformes and catfishes, who possess nonhomologous teleost ampullae. 
+
+Skeleton of the angler fish, Lophius piscatorius. The first spine of the dorsal fin of the anglerfish is modified so it functions like a fishing rod with a lure
+Skeleton of another ray-finned fish, the lingcod
+Hypsospondylus fossil 
+
+The listing below follows FishBase with notes when this differs from Nelson and ITIS. 
+
+* Subclass Chondrostei
+** Order Polypteriformes, bichirs and reedfishes In Nelson, Polypteriformes is placed in its own subclass Cladistia. 
+** Order Acipenseriformes, sturgeons and paddlefishes
+** Order Cheirolepidiformes(†)
+** Order Guildayichthyiformes(†)
+** Order Luganoiiformes(†)
+** Order Palaeonisciformes(†)
+** Order Perleidiformes(†)
+** Order Phanerorhynchiformes(†)
+** Order Pholidopleuriformes(†)
+** Order Ptycholepiformes(†)
+** Order Saurichthyiformes(†)
+** Order Tarrasiiformes(†)
+* Subclass Neopterygii
+** Infraclass Holostei
+*** Order Lepisosteiformes, gars
+*** Order Amiiformes, bowfins
+** Infraclass Teleostei
+*** Superorder Osteoglossomorpha
+**** Order Osteoglossiformes, bony-tongued fishes
+**** Order Hiodontiformes, mooneye and goldeye
+*** Superorder Elopomorpha
+**** Order Elopiformes, ladyfishes and tarpon
+**** Order Albuliformes, bonefishes
+**** Order Notacanthiformes, halosaurs and spiny eels
+**** Order Anguilliformes, true eels
+**** Order Saccopharyngiformes, gulper eel
+*** Superorder Clupeomorpha
+**** Order Clupeiformes, herrings and anchovies
+*** Superorder Ostariophysi
+**** Order Gonorynchiformes, milkfishes
+**** Order Cypriniformes, barbs, carp, danios, goldfishes, loaches, minnows, rasboras
+**** Order Characiformes, characins, pencilfishes, hatchetfishes, piranhas, tetras, dourado / golden (genus Salminus) and pacu
+**** Order Gymnotiformes, electric eels and knifefishes
+**** Order Siluriformes, catfishes
+*** Superorder Protacanthopterygii
+**** Order Argentiniformes, barreleyes and slickheads (formerly in Osmeriformes)
+**** Order Salmoniformes, salmon and trout
+**** Order Esociformes pike
+**** Order Osmeriformes, smelts and galaxiids
+*** Superorder Stenopterygii (may belong in Protacanthopterygii)
+**** Order Ateleopodiformes, jellynose fish
+**** Order Stomiiformes, bristlemouths and marine hatchetfishes
+*** Superorder Cyclosquamata (may belong in Protacanthopterygii)
+**** Order Aulopiformes, Bombay duck and lancetfishes
+*** Superorder Scopelomorpha
+**** Order Myctophiformes, lanternfishes
+*** Superorder Lampridiomorpha
+**** Order Lampriformes, oarfish, opah and ribbonfishes
+*** Superorder Polymyxiomorpha
+**** Order Polymixiiformes, beardfishes
+*** Superorder Paracanthopterygii
+**** Order Percopsiformes, cavefishes and trout-perches
+**** Order Batrachoidiformes, toadfishes
+**** Order Lophiiformes, anglerfishes
+**** Order Gadiformes, cods
+**** Order Ophidiiformes, pearlfishes
+*** Superorder Acanthopterygii
+**** Order Mugiliformes, mullets
+**** Order Atheriniformes, silversides and rainbowfishes
+**** Order Beloniformes, flyingfishes
+**** Order Cetomimiformes, whalefishes
+**** Order Cyprinodontiformes, livebearers, killifishes
+**** Order Stephanoberyciformes, ridgeheads
+**** Order Beryciformes, fangtooths and pineconefishes
+**** Order Zeiformes, dories
+**** Order Gobiesociformes, clingfishes In ITIS, Gobiesociformes is placed as the suborder Gobiesocoidei of the order Perciformes. 
+**** Order Gasterosteiformes, sticklebacks
+**** Order Syngnathiformes, seahorses and pipefishes In Nelson and ITIS, Syngnathiformes is placed as the suborder Syngnathoidei of the order Gasterosteiformes. 
+**** Order Synbranchiformes, swamp eels
+**** Order Tetraodontiformes, filefishes and pufferfish
+**** Order Pleuronectiformes, flatfishes
+**** Order Scorpaeniformes, scorpionfishes and the sculpins
+**** Order Perciformes, 40% of all fish, including anabantids, centrarchids (including bass and sunfish), cichlids, gobies, gouramis, mackerel, tuna, perches, scats, whiting, wrasses, bettas
+* Incertae sedis
+** Order Peltopleuriformes(†)
+
+==Notes==
+
+==External links==
+
+* 
+* Actinopterygii at UntamedScience.com
+* Jonna, R. (2004) Actinopterygii Animal Diversity Web. Updated 29 August 2006. Accessed 2 February 2013.
+
+ 
+
+
